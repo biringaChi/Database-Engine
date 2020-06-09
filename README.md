@@ -3,14 +3,14 @@
 ### Team members
 Josue N Rivera (josue.n.rivera@umassd.edu), Salim Laaguel (slaaguel@umassd.edu), Nadia Khalil (nkhalil2@umassd.edu), Liza R Sousa (lsousa1@umassd.edu)
 
-This project was for a course on Database Design (CIS 552) taught by Dr. Gokhan Kul at the University of Massachusetts-Dartmouth
+This project was for a course on Database Design (CIS 552) taught by Dr. Gokhan Kul at the University of Massachusetts-Dartmouth.
 
 ## Description
 
 In this project, we implemented an SQL query evaluator with
 operational support for Select, Project, Join, Union, Aggregate, and standard optimization techniques such as projection pushdown, selection pushdown and cross product to join conversion. Our program will receive a SQL File with a collection of statements. They include:
-* CREATE TABLE: Defines a representational schema for the data
-* SELECT:   Performs filtering and other operations on the data
+* CREATE TABLE: Defines a representational schema for the data.
+* SELECT:   Performs filtering and other operations on the data.
 The result of these operations will be in a standardized row-oriented data form.
 
 ### Parser
